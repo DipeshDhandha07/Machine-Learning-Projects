@@ -3,7 +3,6 @@
 
 ## Download
 <br>
-
 ### Python
 
 https://www.python.org/downloads/
@@ -12,6 +11,7 @@ https://www.python.org/downloads/
 ### Anaconda
 
 https://www.anaconda.com/products/individual
+
 <br>
 
 ## Installation
