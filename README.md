@@ -1,7 +1,7 @@
 # Machine-Learning-Projects
 
-Installation
-1.Clone this repository
+Installation\
+1.Clone this repository\
 
 ```html
 https://github.com/DipeshDhandha07/Machine-Learning-Projects.git
@@ -11,7 +11,11 @@ https://github.com/DipeshDhandha07/Machine-Learning-Projects.git
 
 ```html
 pip install opencv-python\
+````
+```html
 pip install pandas\
+````
+```html
 pip install numpy
 ````
 
@@ -19,6 +23,10 @@ pip install numpy
 
 ````html
 conda install -c anaconda opencv\
+````
+````html
 conda install -c anaconda numpy\
+````
+````html
 conda install -c anaconda pandas
 ````
