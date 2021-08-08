@@ -1,7 +1,8 @@
 # Machine-Learning-Projects
-# Copy to clipboard [![Build Status](https://travis-ci.org/sudodoki/copy-to-clipboard.svg?branch=master)](https://travis-ci.org/sudodoki/copy-to-clipboard)
 Installation
-
+# UI components based on this package:
++ [react-copy-to-clipboard](https://github.com/nkbt/react-copy-to-clipboard)
++ [copy-button](https://github.com/sudodoki/copy-button)
 1.Clone this repository
 
 https://github.com/DipeshDhandha07/Machine-Learning-Projects.git
