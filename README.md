@@ -4,6 +4,8 @@ Installation
 
 1.Clone this repository
 
+https://github.com/DipeshDhandha07/Machine-Learning-Projects.git
+
 2.Python
 
 pip install opencv-python
