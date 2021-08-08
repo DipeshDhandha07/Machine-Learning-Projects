@@ -1,8 +1,10 @@
 # Machine Learning Projects
 <br>
+
 ## Installation
 
-\1.Clone this repository
+<br>
+1.Clone this repository
 
 ```html
 https://github.com/DipeshDhandha07/Machine-Learning-Projects.git
