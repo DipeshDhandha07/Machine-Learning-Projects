@@ -10,10 +10,10 @@ https://github.com/DipeshDhandha07/Machine-Learning-Projects.git
 
 pip install opencv-python\
 pip install pandas\
-pip install numpy\
+pip install numpy
 
 3.Anaconda
 
-conda install -c anaconda opencv
-conda install -c anaconda numpy 
+conda install -c anaconda opencv\
+conda install -c anaconda numpy\
 conda install -c anaconda pandas
