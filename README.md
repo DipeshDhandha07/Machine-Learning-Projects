@@ -1,5 +1,5 @@
 # Machine Learning Projects
-\
+<br>
 ## Installation
 \
 1.Clone this repository
