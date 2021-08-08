@@ -1,10 +1,9 @@
 # Machine-Learning-Projects
 
-
-# See also:
-+ [clipboard-copy](https://github.com/feross/clipboard-copy) by [@feross](https://github.com/feross)
-+ [MDN](https://developer.mozilla.org/en-US/docs/Web/API/Document/execCommand#Browser_Compatibility)
-+ [April 2015 update on Cut and Copy Commands](http://updates.html5rocks.com/2015/04/cut-and-copy-commands)
++ Can be utilized using [wzrd.in](https://wzrd.in/). Add following script to your page:
+```html
+<script src="https://wzrd.in/standalone/copy-to-clipboard@latest" async></script>
+```
 
 Installation
 1.Clone this repository
