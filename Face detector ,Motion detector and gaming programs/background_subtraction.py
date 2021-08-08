@@ -52,7 +52,7 @@ if __name__=='__main__':
             break
 
     # Release the video capture object
-    cap.release()
+    cap.release() 
     
     # Close all the windows
     cv2.destroyAllWindows()
