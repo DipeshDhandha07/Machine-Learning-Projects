@@ -8,9 +8,9 @@ https://github.com/DipeshDhandha07/Machine-Learning-Projects.git
 
 2.Python
 
-pip install opencv-python
-pip install pandas
-pip install numpy
+pip install opencv-python\
+pip install pandas\
+pip install numpy\
 
 3.Anaconda
 
