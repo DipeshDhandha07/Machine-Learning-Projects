@@ -1,8 +1,8 @@
 import numpy as np
 import cv2
 
-face_cascade = cv2.CascadeClassifier("E:\\E-placement course\\Machine learning image processsing and Computer Vision\\Computer vision\\haarcascades\\haarcascade_frontalface_default.xml")
-eye_cascade = cv2.CascadeClassifier('E:\\E-placement course\\Machine learning image processsing and Computer Vision\\Computer vision\\haarcascades\\haarcascade_eye.xml')
+face_cascade = cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
+eye_cascade = cv2.CascadeClassifier('haarcascade_eye.xml')
 
 # Check if the face cascade file has been loaded properly
 if face_cascade.empty():
