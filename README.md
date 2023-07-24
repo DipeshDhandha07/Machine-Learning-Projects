@@ -1,5 +1,6 @@
 # Machine Learning Projects
 <br>
+In this project you fill find eye detector , face fetector, tic tac toe game and many more programs related to machine learning
 
 ## Download
 <br>
